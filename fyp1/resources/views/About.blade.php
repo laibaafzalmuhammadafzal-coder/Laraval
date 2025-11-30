@@ -1,0 +1,3 @@
+@include('partials.header')
+<h1>hello world</h1>
+@include('partials.header')
