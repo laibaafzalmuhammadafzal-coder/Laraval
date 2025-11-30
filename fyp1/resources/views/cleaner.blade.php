@@ -9,7 +9,7 @@
         <!-- Cleaner Card 1 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <img src="{{ asset('img/cleaner1.jpg') }}" class="card-img-top" alt="Cleaner 1">
+                <img src="{{ asset('img/cleaning1.jpg') }}" class="card-img-top" alt="Cleaner 1">
                 <div class="card-body">
                     <h5 class="card-title">Home Cleaning</h5>
                     <p class="card-text">Complete home cleaning services for a spotless house.</p>
@@ -21,7 +21,7 @@
         <!-- Cleaner Card 2 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <img src="{{ asset('img/cleaner2.jpg') }}" class="card-img-top" alt="Cleaner 2">
+                <img src="{{ asset('img/cleaning2.jpg') }}" class="card-img-top" alt="Cleaner 2">
                 <div class="card-body">
                     <h5 class="card-title">Office Cleaning</h5>
                     <p class="card-text">Professional cleaning for offices and workspaces.</p>
@@ -33,7 +33,7 @@
         <!-- Cleaner Card 3 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <img src="{{ asset('img/cleaner3.jpg') }}" class="card-img-top" alt="Cleaner 3">
+                <img src="{{ asset('img/cleaning3.jpg') }}" class="card-img-top" alt="Cleaner 3">
                 <div class="card-body">
                     <h5 class="card-title">Kitchen Cleaning</h5>
                     <p class="card-text">Deep cleaning for kitchens and cooking areas.</p>
@@ -45,7 +45,7 @@
         <!-- Cleaner Card 4 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <img src="{{ asset('img/cleaner4.jpg') }}" class="card-img-top" alt="Cleaner 4">
+                <img src="{{ asset('img/cleaning4.jpg') }}" class="card-img-top" alt="Cleaner 4">
                 <div class="card-body">
                     <h5 class="card-title">Bathroom Cleaning</h5>
                     <p class="card-text">Sanitized and thorough bathroom cleaning services.</p>
@@ -57,7 +57,7 @@
         <!-- Cleaner Card 5 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <img src="{{ asset('img/cleaner5.jpg') }}" class="card-img-top" alt="Cleaner 5">
+                <img src="{{ asset('img/cleaning5.jpg') }}" class="card-img-top" alt="Cleaner 5">
                 <div class="card-body">
                     <h5 class="card-title">Window Cleaning</h5>
                     <p class="card-text">Sparkling window cleaning for homes and offices.</p>
@@ -69,7 +69,7 @@
         <!-- Cleaner Card 6 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <img src="{{ asset('img/cleaner6.jpg') }}" class="card-img-top" alt="Cleaner 6">
+                <img src="{{ asset('img/cleaning6.jpg') }}" class="card-img-top" alt="Cleaner 6">
                 <div class="card-body">
                     <h5 class="card-title">Carpet & Upholstery Cleaning</h5>
                     <p class="card-text">Deep cleaning for carpets, sofas, and upholstery.</p>
@@ -81,7 +81,7 @@
         <!-- Cleaner Card 7 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <img src="{{ asset('img/cleaner7.jpg') }}" class="card-img-top" alt="Cleaner 7">
+                <img src="{{ asset('img/cleaning7.jpg') }}" class="card-img-top" alt="Cleaner 7">
                 <div class="card-body">
                     <h5 class="card-title">Garden Cleaning</h5>
                     <p class="card-text">Maintain a clean and tidy garden space at home.</p>
@@ -93,7 +93,7 @@
         <!-- Cleaner Card 8 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <img src="{{ asset('img/cleaner8.jpg') }}" class="card-img-top" alt="Cleaner 8">
+                <img src="{{ asset('img/cleaning8.jpg') }}" class="card-img-top" alt="Cleaner 8">
                 <div class="card-body">
                     <h5 class="card-title">Move-In / Move-Out Cleaning</h5>
                     <p class="card-text">Thorough cleaning services when moving homes.</p>
@@ -105,7 +105,7 @@
         <!-- Cleaner Card 9 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <img src="{{ asset('img/cleaner9.jpg') }}" class="card-img-top" alt="Cleaner 9">
+                <img src="{{ asset('img/cleaning9.jpg') }}" class="card-img-top" alt="Cleaner 9">
                 <div class="card-body">
                     <h5 class="card-title">General Home Cleaning</h5>
                     <p class="card-text">Regular cleaning services to keep your home fresh.</p>
